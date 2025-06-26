@@ -82,8 +82,6 @@ Final Thoughts
 
 With just a few clicks, you can secure your entire digital life—computers, phones, and tablets—all from one Bitdefender Central account. It’s a powerful and convenient way to ensure every family member or coworker stays safe online.
 
-
-
     ✅ **Quick Links:**
 
 .. raw:: html
